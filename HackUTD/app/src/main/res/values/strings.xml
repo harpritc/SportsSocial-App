@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HackUTD</string>
+
+    <string name="activity_prompt">Choose a Activity</string>
+
+    <string-array name="activity_array">
+        <item>Badminton</item>
+        <item>Table Tennis</item>
+        <item>Foosball</item>
+        <item>Coding</item>
+        <item>Hiking</item>
+        <item>Football</item>
+        <item>Hackathon</item>
+        <item>Hacking</item>
+    </string-array>
+</resources>
